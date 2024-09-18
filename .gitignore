@@ -1,0 +1,16 @@
+dataset/
+lib/
+bin/
+*.pyc
+__pycache__/
+/myenv/
+*.h5
+*.keras
+*.pb
+/saved/
+xception_weather_model_saved/
+weather_model_tfjs_01/
+weather_model_tfjs_02/
+weather_model_tfjs_03/
+weather_model_tfjs_04/
+weather_model_tfjs_05/
